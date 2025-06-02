@@ -10,7 +10,7 @@ function App() {
     <>
 
       <div className="">
-        This is the website of legend hitakshi ghai.
+        This is the website of legend hitakshi ghai. the great
       </div>
     </>
   )
